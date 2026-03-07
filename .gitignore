@@ -4,3 +4,8 @@
 *.crt
 *.csr
 *.logxw
+
+/docker-modx/www/
+/docker-modx/docker/logs/
+/docker-modx/docker/volume/
+/docker-modx/docker/modx/storage/
