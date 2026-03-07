@@ -5,7 +5,7 @@
 *.csr
 *.logxw
 
-/docker-modx/www/
-/docker-modx/docker/logs/
-/docker-modx/docker/volume/
-/docker-modx/docker/modx/storage/
+/www/
+/docker/logs/
+/docker/volume/
+/docker/modx/storage/
